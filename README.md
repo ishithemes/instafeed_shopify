@@ -1,7 +1,7 @@
 # How to Instagram feed on your website?
 This is a free code to add instagram feed to your website. A non coder can also do this by following a simple steps mentioned below.
 
-## installation
+## Installation
 * Go to Admin of your shopify store and edit the code of the theme you want to add the feeds to.
 * Create a new Section named ishi_instafeed.liquid.
 * Empty the default contents of the newly created section file.
